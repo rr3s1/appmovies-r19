@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
-      <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/488a5fc2-71d3-4b6a-a33b-13a1187481d5" alt="Project Banner">
     </a>
   <br />
   
@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center">
-    <br><br>
+    <br>
     <a href="https://www.youtube.com/watch?v=dCLhUialKPQ&t=365s" target="_blank">Project Video</a>
     <br>
     <a href="https://github.com/adrianhajdin" target="_blank">Adrian Hajdin GitHub</a>
@@ -37,7 +37,6 @@
 7. 🤝 [Acknowledgments](#acknowledgments)
 8. 📄 [License](#license)
 9. 🚀 [More](#more)
-
 
 
 
